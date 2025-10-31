@@ -22,5 +22,5 @@ Pkg.add([
 
 ##### 3. Then to install TSSOS, do 
 Pkg.add(url="https://github.com/wangjie212/TSSOS.jl")
-##### 4. Now clone this repo or you download the files to your local machine
-##### 5. Run jupyter notebook for each case study, the output are saved as .txt file on the same folder where the corresponding .ipynb are saved.
+##### 4. Now clone this repo or you download the files to your local machine and create a folder named 'systems' where the experiments outputs will be saved.
+##### 5. Run jupyter notebook for each case study, the output are saved as .txt file in the folder named 'systems' on the same folder where the corresponding .ipynb are saved.
