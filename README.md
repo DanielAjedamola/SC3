@@ -1,6 +1,6 @@
-### This repository contains code for the paper titled: 'Stochastic-Closure-Certificates'
+### This repository contains code for the paper titled: 'Stochastic-Control-Closure-Certificates (SC3)'
 ### Link: ...
-### Conference: ...
+### Journal: Submitted to TAC
 ### Authors: Daniel Ajeleye, Vishnu Murali, and Majid Zamani
 ### Contact: daniel.ajeleye@colorado.edu
 ### Affiliation: University of Colorado Boulder
